@@ -25,7 +25,7 @@ turtle.forward(100);
 
 function giveInstructions() {
   turtle.penColor("#00ffbc");
-  turtle.penWidth(11);
+  turtle.penWidth(10);
 
   // Press a face onto the canvas, so we can see where we started.
   turtle.stamp();
